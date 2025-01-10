@@ -1,8 +1,8 @@
 Package: syllogi
 Type: Package
 Title: Collection of Data Sets for Teaching Purposes
-Version: 1.0.3
-Date: 2024-07-08
+Version: 1.0.4
+Date: 2025-01-10
 Authors@R: c(person("Jared", "Studyvin", role = c("aut", "cre"),
                      email = "studyvinstat@gmail.com"))
 Author: Jared Studyvin [aut, cre]
@@ -16,6 +16,6 @@ License: Apache License (>= 2)
 Encoding: UTF-8
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2024-07-08 21:28:10 UTC; jaredstudyvin
+Packaged: 2025-01-10 16:39:35 UTC; jaredstudyvin
 Repository: CRAN
-Date/Publication: 2024-07-08 21:40:02 UTC
+Date/Publication: 2025-01-10 17:00:02 UTC
